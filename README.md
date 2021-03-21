@@ -1,12 +1,9 @@
-# Windows 7 Generator
----
-__Welcome to my project!__
----
-_PLEASE READ ME!!!_
+# Xiaomi100 Site
+___Welcome to my site!___
 
 ---
-How to use Generator
-1. Start Windows.py
-2. Type username
-3. Select icon
-4. ___Good Luck!)))___
+This is site of my project in GitHub
+
+1. Windows 7 Generator (Creating site)
+
+___Good Luck! :-)___
